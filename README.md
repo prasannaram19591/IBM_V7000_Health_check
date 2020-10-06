@@ -9,7 +9,7 @@ How it works:
 The automation is done using Python code. The code performs a SSH into all of the defined storage boxes and performs all the commands that we want to. It saves the output of all the commands that it ran across all the storage device and mails the same to the admins so that all we need to do is to check the output file and look at the storage that only have errros in the output.
 
 1.  Create a common user(monitoring user) and password for all storage arrays of same model for ex: IBM V7000.
-2.  Create an environment file and input a common user name and password which is created for all the storage.
+2.  Create an environment file and input a common user name and password which is created for all the storage and source it (source ibm_env.sh).
 3.  Create a file and input all the ips of the storage that you want to perform HC.
 4.  Creata a file and input all the HC commands that you want to have a daily look.
 5.  Run the file ("python ibm_health_check.py") daily to get the output of all device commands at one go to your mail.
