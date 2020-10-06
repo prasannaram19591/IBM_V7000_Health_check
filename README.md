@@ -12,7 +12,7 @@ The automation is done using Python code. The code performs a SSH into all of th
 2.  Create an environment file and input a common user name and password which is created for all the storage.
 3.  Create a file and input all the ips of the storage that you want to perform HC.
 4.  Creata a file and input all the HC commands that you want to have a daily look.
-5.  Run the file daily to get the output of all device commands at one go to your mail.
+5.  Run the file ("python ibm_health_check.py") daily to get the output of all device commands at one go to your mail.
 
 
 Pre-requisites:
