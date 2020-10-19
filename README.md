@@ -2,7 +2,7 @@
 
 Hello Storage Admins,
 
-How many times we had been told to automate daily health checks of the storae infra that we manage by many people. In a work area with more than 50 storage devices, it will become a tedious task to login to each storage device and perform the same commands and verifying the output. More than the wastage of time it involes manual erros as well. I have got you covered for all your day to day health checks for storage devices that you manage.
+How many times we had been told to automate daily health checks of the storae infra that we manage by many people. In a work area with more than 100 storage devices, it will become a tedious task to login to each storage device and perform the same set of commands and verifying the output. More than the wastage of time it involes manual errors as well. I have got you covered for all your day to day health checks for storage devices that you manage.
 
 How it works:
 
